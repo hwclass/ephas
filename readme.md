@@ -18,6 +18,7 @@ or multiple solutions... but, which one is the best?
 - [Why does React emphasize on unidirectional data flow and Flux architecture?](https://hashnode.com/post/why-does-react-emphasize-on-unidirectional-data-flow-and-flux-architecture-ciibz8ej600n2j3xtxgc0n1f0#ciibz8qqt01rjj3xt97v8t8in)
 - [Adding Authentication to your React/Flux App](https://auth0.com/blog/2015/04/09/adding-authentication-to-your-react-flux-app/)
 - [Secure Your React and Redux App with JWT Authentication](https://auth0.com/blog/2016/01/04/secure-your-react-and-redux-app-with-jwt-authentication/)
+- [Dispatching Actions with other Actions --> Redux Thunk](https://github.com/gaearon/redux-thunk)
 
 ###Django
 - [Learn and use Class Based Views](https://ccbv.co.uk/)
