@@ -1,5 +1,6 @@
 # Every Problem Has a Solution
-or multiple solutions... but, which one is the best?
+
+![Web in 2016](https://s-media-cache-ak0.pinimg.com/736x/f6/73/01/f6730132df8eba09ebb81aff33e5ae11.jpg)
 
 ##Languages & Frameworks
 
