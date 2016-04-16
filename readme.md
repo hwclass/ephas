@@ -43,6 +43,8 @@
 
 ### Git
 - [A Succesfull Git Branching Model: Git Flow](http://nvie.com/posts/a-successful-git-branching-model/)
+- [Effective pull requests](http://codeinthehole.com/writing/pull-requests-and-other-good-practices-for-teams-using-github/)
+- [Updating GitHub Fork](http://bassistance.de/2010/06/25/git-fu-updating-your-github-fork/)
 
 ### Webpack
 - [Resolving Roots](http://stackoverflow.com/questions/27502608/resolving-require-paths-with-webpack)
