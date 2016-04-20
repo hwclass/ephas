@@ -24,7 +24,7 @@
 - [Step by Step Guide For Building React/Redux Apps](https://medium.com/@rajaraodv/step-by-step-guide-to-building-react-redux-apps-using-mocks-48ca0f47f9a#.mxhn9gk6e)
 - [Adding Authentication to your React/Flux App](https://auth0.com/blog/2015/04/09/adding-authentication-to-your-react-flux-app/)
 - [Secure Your React and Redux App with JWT Authentication](https://auth0.com/blog/2016/01/04/secure-your-react-and-redux-app-with-jwt-authentication/)
-- [Dispatching Actions with other Actions --> Redux Thunk](https://github.com/gaearon/redux-thunk)
+- [Dispatching Async Actions with Redux Thunk](https://github.com/gaearon/redux-thunk) || [Video](https://www.youtube.com/watch?v=1QI-UE3-0PU&feature=youtu.be)
 
 ###NodeJS
 - [Ryan Dahl's first NodeJS presentation](https://www.youtube.com/watch?v=ztspvPYybIY)
