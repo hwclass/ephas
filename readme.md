@@ -25,6 +25,8 @@
 - [Adding Authentication to your React/Flux App](https://auth0.com/blog/2015/04/09/adding-authentication-to-your-react-flux-app/)
 - [Secure Your React and Redux App with JWT Authentication](https://auth0.com/blog/2016/01/04/secure-your-react-and-redux-app-with-jwt-authentication/)
 - [Dispatching Async Actions with Redux Thunk](https://github.com/gaearon/redux-thunk) || [Video](https://www.youtube.com/watch?v=1QI-UE3-0PU&feature=youtu.be)
+- [Good example for the usage of Redux-Thunk] (https://github.com/reactjs/redux/issues/291#issuecomment-122829159)
+- [Store your Redux State in localStorage with Redux-Persist](https://github.com/rt2zz/redux-persist)
 
 ###NodeJS
 - [Ryan Dahl's first NodeJS presentation](https://www.youtube.com/watch?v=ztspvPYybIY)
