@@ -32,7 +32,7 @@
 - [Ryan Dahl's first NodeJS presentation](https://www.youtube.com/watch?v=ztspvPYybIY)
 - [How To Set Up a Node.js Application for Production on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-node-js-application-for-production-on-ubuntu-14-04)
 
-###Django
+##Django
 - [Learn and use Class Based Views](https://ccbv.co.uk/)
 - [Deploying Django with Gunicorn to an Ubuntu server with nginx](http://adambeagle.com/blog/deploying-django-17-ubuntu/)
 
@@ -51,3 +51,4 @@
 ### Webpack
 - [Resolving Roots](http://stackoverflow.com/questions/27502608/resolving-require-paths-with-webpack)
 - [ProvidePlugin](https://medium.com/@thejenniekim/never-import-react-from-react-again-thanks-to-webpack-s-provideplugin-69e7feb69e#.2udchuidy)
+- [Handling node externals](http://jlongster.com/Backend-Apps-with-Webpack--Part-I)
