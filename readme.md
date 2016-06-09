@@ -49,6 +49,7 @@
 - [Updating GitHub Fork](http://bassistance.de/2010/06/25/git-fu-updating-your-github-fork/)
 
 ### Webpack
+- [Regex Problems caused by resolving paths](https://github.com/RisingStack/react-way-getting-started/issues/8#issuecomment-120779627)
 - [Resolving Roots](http://stackoverflow.com/questions/27502608/resolving-require-paths-with-webpack)
 - [ProvidePlugin](https://medium.com/@thejenniekim/never-import-react-from-react-again-thanks-to-webpack-s-provideplugin-69e7feb69e#.2udchuidy)
 - [Handling node externals](http://jlongster.com/Backend-Apps-with-Webpack--Part-I)
