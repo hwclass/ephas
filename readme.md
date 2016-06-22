@@ -7,6 +7,8 @@
 ###Javascript
 - [When to use Arrow Functions](http://stackoverflow.com/questions/22939130/when-should-i-use-arrow-functions-in-ecmascript-6/23045200#23045200)
 
+- [The Difference Between Throttling and Debouncing](https://css-tricks.com/the-difference-between-throttling-and-debouncing/)
+
 ###React
 - [React Ajax Best Practices](http://andrewhfarmer.com/react-ajax-best-practices/) 
 
