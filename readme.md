@@ -11,6 +11,7 @@
 
 ###React
 - [React Ajax Best Practices](http://andrewhfarmer.com/react-ajax-best-practices/) 
+- [React Component Lifecycle](https://medium.com/react-ecosystem/react-components-lifecycle-ce09239010df#.4vniiagl5)
 
 ###React Native
 - [Navigating Like a Pro](https://medium.com/@dabit3/react-native-navigator-navigating-like-a-pro-in-react-native-3cb1b6dc1e30#.hiom3o6lp)
