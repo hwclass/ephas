@@ -13,6 +13,10 @@
 - [React Ajax Best Practices](http://andrewhfarmer.com/react-ajax-best-practices/) 
 - [React Component Lifecycle](https://medium.com/react-ecosystem/react-components-lifecycle-ce09239010df#.4vniiagl5)
 
+###Redux
+- [Dan Abramovs First Redux Video Series](https://egghead.io/courses/getting-started-with-redux)
+- [The Anatomy of a Redux App](https://medium.com/@rajaraodv/the-anatomy-of-a-react-redux-app-759282368c5a#.xf6rlxi64)
+
 ###React Native
 - [Navigating Like a Pro](https://medium.com/@dabit3/react-native-navigator-navigating-like-a-pro-in-react-native-3cb1b6dc1e30#.hiom3o6lp)
 - [Routing and Navigation](http://blog.paracode.com/2016/01/05/routing-and-navigation-in-react-native/)
